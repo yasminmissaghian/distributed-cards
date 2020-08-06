@@ -1,0 +1,37 @@
+repo: "distributed-cards"
+canvasCourse: "web-design-1"
+
+inherit:
+  - naming-restrict-live
+  - git-2
+  - html
+  - css
+  - border-box
+  - body-margin-0
+
+html:
+  - path: "index.html"
+    locked: true
+
+css:
+  - path: "css/main.css"
+    has:
+      - ["html", "font-family", "Georgia, serif"]
+      - ["html", "line-height", "1.5"]
+      - ["img", "width", "100%"]
+    search:
+      - "display: grid"
+      - "gap"
+      - "grid-template-columns"
+      - "1fr"
+      - "display: flex"
+      - "flex-direction"
+      - "justify-content"
+      - "padding"
+      - "margin"
+      - 'font-family: "Denk One"'
+      - "border-radius: 8px"
+
+screenshots:
+  - path: "index.html"
+    sizes: [960]
