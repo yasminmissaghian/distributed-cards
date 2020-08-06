@@ -20,7 +20,7 @@ deliverables: '1 HTML file, 1 CSS file, images'
 - *Typefaces:* `Georgia`, `Denk One`
 - *Text sizes:* `1.125rem`, `0.875rem`, `1.5rem`
 - *Line-heights:* `1.5`
-- *Colours:* `#fff`, `#f5f2f0`, `#623b0c`, `#000`, `#ede3db`, `#f33`, `#933`
+- *Colours:* `#fff`, `#f5f2f0`, `#ede3db`, `#623b0c`, `#000`
 - *Margins:* `1.5rem`
 - *Paddings:* `.5em .75em .6em`, `1rem`
 - *Gaps:* `1rem`
